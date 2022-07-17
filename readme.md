@@ -1,3 +1,3 @@
-#Git and GitHub course
+# Git and GitHub Course
  
 Crash course for Git
